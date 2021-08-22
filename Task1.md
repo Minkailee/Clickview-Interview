@@ -84,4 +84,4 @@ With Table1(Products selling in shop1) and Tbale2(Products selling in shop2), fi
 
 # b) Please explain how natural joins differ from explicit joins
 ### Explanation: 
-Natural Join gives you the records from the two tables that sharing the common column, but explicit join would give you the records that also fullfill the join conditions.
+Natural Join gives you the records from the two tables that sharing the common columns, but explicit join would only give you the records that fullfill the join conditions.
